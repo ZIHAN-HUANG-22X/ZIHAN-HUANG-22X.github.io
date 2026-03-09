@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
-excerpt: "About me"
+title: "About ME"
+excerpt: "黄梓涵|24级大数据传播班"
 author_profile: true
 redirect_from: 
   - /about/
@@ -10,13 +10,15 @@ redirect_from:
 
  
 
-Welcome to the Socrates Lab! We are a small research team affiliated with the Computational Communication Collaboratory, School of Journalism and Communication, Nanjing University.
+Welcome to my homepage.
+欢迎来到我的主页。
 
-Github: https://github.com/socratesclub
+Github: https://github.com/22X-FULAI
 
-## People
+### 
+
 ### Directer
 - Cheng-Jun Wang https://chengjun.github.io/
 
 
-🖋[Revise this page](https://github.com/SocratesGroup/socratesgroup.github.io/edit/master/_pages/about.md)
+🖋[Revise this page](https://github.com/22X-FULAI/22X-FULAI.github.io/edit/master/_pages/about.md)
