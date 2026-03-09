@@ -1,7 +1,53 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Portfolio item number 1 数据新闻课程期末作业"
+excerpt: "Steam帝国的玩家与游戏生态分析 <br/><img src='/images/steam_global_player_distribution.png'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+## 基本信息
+- **报告类型**：数据新闻课程期末作业
+- **报告主题**：Steam全球玩家分布与游戏市场生态分析
+- **数据来源**：GitHub Gaming Profiles 2025、Steam DB、ALINEA ANALYTICS、GAMEDISCOVERGO等
+- **分析工具**：Excel、python、illustrator
+- **项目成果**：完成1份深度数据新闻报告，包含11张可视化图表，覆盖玩家分布、游戏热度、价格趋势等核心维度
+
+## 项目研究背景
+Steam作为全球头部PC游戏发行与分发平台，其用户分布、内容供给与玩家行为构成了极具特色的市场生态。本项目围绕**Steam玩家全球分布特征、2025年爆款游戏规律、玩家偏好与消费习惯趋势**三大核心问题展开数据新闻分析，通过样本数据统计与可视化，挖掘Steam游戏帝国的内在逻辑。
+
+## 核心研究内容与分析结论
+### 1. Steam玩家全球分布：头部集中，新兴市场崛起
+基于35.66万条玩家样本数据，完成全球玩家分布可视化，核心结论：
+- 玩家呈现**跨大西洋带状集中**特征，北美+西欧为核心高密度区域，美国占比22.79%（一枝独秀）；
+- 欧洲为“多中心市场”，西班牙、英国、法国等国玩家占比均衡，共同抬高欧洲整体权重；
+- 拉丁美洲新兴市场表现突出，巴西、阿根廷跻身玩家占比Top15，成为Steam重要的玩家增量市场；
+- 大中华地区数据呈现反直觉特征：中国大陆样本占比仅0.03%，香港（1.37%）、台湾（0.30%）占比更高，核心原因是网络路径导致的IP归属偏差。
+
+#### 关键可视化图表
+![Steam全球玩家分布图](/assets/images/steam_global_player_distribution.png){: width="80%" }
+![玩家占比最高的15个国家/地区](/assets/images/steam_top15_country_ratio.png){: width="80%" }
+![中国大陆/台湾/香港玩家占比对比](/assets/images/steam_cn_hk_tw_player_ratio.png){: width="80%" }
+
+### 2. 2025年Steam热门游戏：IP续作主导，原创与独立游戏强势突围
+以**同时在线人数峰值**和**营收**为核心指标，分析2025年Steam新作与独立游戏表现：
+- IP续作占据年度爆款核心：《怪物猎人：荒野》《战地6》《空洞骑士：丝之歌》等包揽在线排名前列，成熟IP的粉丝基础与玩法创新是核心竞争力；
+- 原创新作表现亮眼：《ARC突袭者》《一号议程》等凭借独特题材/玩法占据榜单近半数席位，彰显原创游戏的市场潜力；
+- 独立游戏成生态重要力量：贡献Steam平台25%+总营收，《Schedule I》以1.5亿美元营收成为年度最佳独立游戏，差异化题材与高完成度是成功关键；
+- 游戏类型营收：拟真、动作、FPS等主流赛道稳健，“可爱（Cute）”标签以80%同比增速成为黑马，打破硬核射击主导的市场刻板印象。
+
+#### 关键可视化图表
+![2025年Steam新作在线排名](/assets/images/steam_2025_new_game_online_ranking.png){: width="80%" }
+![2025年Steam独立游戏畅销榜](/assets/images/steam_2025_indie_game_sales_ranking.png){: width="80%" }
+
+### 3. 游戏行业核心规律：口碑决定生命力，价格分化+注意力窗口缩短
+通过玩家评价、游戏价格、新老游戏时长占比分析，挖掘Steam市场底层逻辑：
+- **口碑是核心竞争力**：《邦戈猫》（96.08%好评率）在线玩家数持续攀升，《席德·梅尔的文明VII》（48.06%好评率）首周即巅峰，验证“内容为王”；
+- **价格结构分化**：Steam新作平均首发价格小幅下降，中位数价格跌幅近20%，高价3A与低价独立游戏并存，中端价格带被挤压；
+- **促销成重要推力**：高频折扣活动（Summer Sale/Black Friday Sale）影响玩家消费行为，“策略性等待折扣”成为主流；
+- **注意力窗口缩短**：2024年Steam新作发布量达1.9万（历史最高），但新作仅占玩家总时长14%，40%新作未能回本，经典老游戏仍占据玩家核心注意力。
+
+#### 关键可视化图表
+![好评率与游戏在线玩家数曲线](/assets/images/steam_rating_vs_players_curve.png){: width="80%" }
+![Steam新游价格中位数与平均值趋势](/assets/images/steam_new_game_price_trend.png){: width="80%" }
+![Steam新老游戏时长占比（2025）](/assets/images/steam_2025_new_old_game_time_ratio.png){: width="80%" }
+
+
