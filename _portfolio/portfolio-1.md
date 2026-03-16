@@ -1,6 +1,6 @@
 ---
 title: "课程作业1 数据新闻课程期末作业(小组作业)"
-excerpt: "Steam帝国的玩家与游戏生态分析 <br/><img src='/images/steam_global_player_distribution.png' width='500'>"
+excerpt: "Steam帝国的玩家与游戏生态分析"
 collection: portfolio
 ---
 
