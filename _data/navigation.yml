@@ -1,15 +1,15 @@
 # main links links
 main:
-  - title: "Publications"
+  - title: "论文"
     url: /publications/
     
-  - title: "Portfolio"
+  - title: "课程作业/项目"
     url: /portfolio/
         
-  - title: "Blog Posts"
+  - title: "兴趣爱好"
     url: /year-archive/
     
-  - title: "CV"
+  - title: "个人简历"
     url: /cv/
     
   - title: "Guide"
