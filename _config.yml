@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "22X-FULAI / Homepage"
+title                    : "黄梓涵 / 主页"
 title_separator          : "-"
-name                     : "22X-FULAI"
-description              : "A sophomore student"
+name                     : "黄梓涵"
+description              : "南京大学大数据传播大二在读"
 url                      : https://22X-FULAI.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "22X-FULAI.github.io"
@@ -79,9 +79,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "22X-FULAI"
+  name             : "黄梓涵"
   avatar           : "avatar1.png"
-  bio              : "一个大二学生"
+  bio              : "南京大学大数据传播班大二在读"
   location         : "江苏"
   employer         : "南京大学新闻传播学院"
   pubmed           : 
