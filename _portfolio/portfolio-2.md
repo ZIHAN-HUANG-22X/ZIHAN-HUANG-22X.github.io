@@ -1,5 +1,4 @@
 
-
 ---
 title: "课程作业1 全球AI与数据岗位薪资预测模型构建与分析"
 excerpt: "本项目为《数据科学与数据分析》课程小组作业，以全球AI与数据相关岗位为研究对象，基于多维岗位特征数据，构建薪资预测模型并并配套设计可视化展示 UI 界面。"
@@ -14,8 +13,8 @@ collection: portfolio
 ## 项目介绍
 本项目为《数据科学与数据分析》课程小组作业，以全球AI与数据相关岗位为研究对象，基于多维岗位特征数据，构建**薪资预测线性回归模型**。通过数据清洗、特征筛选、模型训练与结果检验，探究岗位类型、工作经验、所在地、行业类别等变量对薪资水平的影响机制，完成模型解释、性能评估与结论总结。
 
-## 项目完整报告内嵌预览
+## 项目完整报告
 <iframe src="{{ base_path }}/files/全球AI与数据岗位薪资预测模型构建与分析(1).docx" width="100%" height="700px" style="border:1px solid #eee;"></iframe>
 
-## 项目汇报PPT内嵌预览
+## 项目汇报PPT
 <iframe src="{{ base_path }}/files/全球AI与数据岗位薪资预测模型项目汇报.pptx" width="100%" height="600px" style="border:1px solid #eee; margin-top:2rem;"></iframe>
