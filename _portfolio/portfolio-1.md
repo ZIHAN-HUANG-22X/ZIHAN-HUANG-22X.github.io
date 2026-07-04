@@ -11,4 +11,4 @@ collection: portfolio
 
 ## 项目资料下载
 - 项目汇报PPT：[点击下载PPT]({{ base_path }}/files/ai-salary-ppt.pptx)
-- 完整分析报告：[点击下载报告]({{ base_path }}/files/ai-salary-report.docx)
+- 完整分析报告：[点击下载报告]({{ base_path }}/files/ai-salary-report.pdf)
