@@ -10,11 +10,11 @@ collection: portfolio
 
 
 ## 个人板块产出文件下载
-- 负责模块分析文稿（初步报告）：[AI Cover-B站评论情感代偿分析.docx]({{ base_path }}/files/aicover-bilibili-mid-report.pdf)
-- 实验代码（初)：[AI Cover_tentative.ipynb]({{ base_path }}/files/AI Cover_tentative.html)
-- 原始数据清洗脚本（微博数据）：[01_clean_raw_data.ipynb]({{ base_path }}/files/01_clean_raw_data.html)
-- LDA主题建模代码（微博数据）：[03_LDA.ipynb]({{ base_path }}/files/03_LDA.html)
-- 词语共现网络分析代码（微博数据）：[04_co_occur_network.ipynb]({{ base_path }}/files/04_co_occur_network.html)
+- 负责模块分析文稿（初步报告）：[AI Cover-B站评论情感代偿分析.pdf]({{ base_path }}/files/aicover-bilibili-mid-report.pdf)
+- 实验代码（初)：[AI Cover_tentative.html]({{ base_path }}/files/AI Cover_tentative.html)
+- 原始数据清洗脚本（微博数据）：[01_clean_raw_data.html]({{ base_path }}/files/01_clean_raw_data.html)
+- LDA主题建模代码（微博数据）：[03_LDA.html]({{ base_path }}/files/03_LDA.html)
+- 词语共现网络分析代码（微博数据）：[04_co_occur_network.html]({{ base_path }}/files/04_co_occur_network.html)
 - 微博相关代码：[final (3)_AI Cover.html]({{ base_path }}/files/final-aicover.html)
 
 > 备注：文件均为本人负责模块的中途实验产出，代码包含废弃片段（微博相关的内容因研究问题的变化已废弃），项目暂无完整整体终稿报告。
