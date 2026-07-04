@@ -1,6 +1,6 @@
 ---
 title: "课程作业1 全球AI与数据岗位薪资预测模型构建与分析"
-excerpt: " <br/><img src='/images/salary.png' width='500' >"
+excerpt: " <img src='/images/salary.png' width='500' >"
 collection: portfolio
 ---
 
