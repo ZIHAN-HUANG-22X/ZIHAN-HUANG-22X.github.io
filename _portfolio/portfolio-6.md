@@ -11,4 +11,4 @@ collection: portfolio
 
 ## 资料下载
 - 完整报告：[勤工俭学岗位管理系统.docx]({{ base_path }}/files/workstudy-report.docx)
-- 项目汇报PPT：[勤工俭学岗位管理系统汇报.pptx]({{ base_path }}/files/workstudy-ppt.pdf)
+- 项目汇报PPT：[勤工俭学岗位管理系统汇报.pptx]({{ base_path }}/files/workstudy.pptx)
