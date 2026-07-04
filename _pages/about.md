@@ -10,9 +10,6 @@ redirect_from:
 
 {% include base_path %}
 
-
-
-# Hi! 欢迎来到我的主页
 Hi~我是黄梓涵，南京大学新闻传播学院 2024 级大数据传播实验班在读
 
 ---
