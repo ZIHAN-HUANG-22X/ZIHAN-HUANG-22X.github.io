@@ -10,8 +10,8 @@ collection: portfolio
 
 
 ## 个人板块产出文件下载
-- 负责模块分析文稿（初步）：[AI Cover-B站评论情感代偿分析.pdf]({{ base_path }}/files/aicover-bilibili-mid-report.pdf)
 - 实验代码（初)：[AI Cover_tentative.html]({{ base_path }}/files/AI Cover_tentative.html)
+- 负责模块分析文稿（初步）：[AI Cover-B站评论情感代偿分析.pdf]({{ base_path }}/files/aicover-bilibili-mid-report.pdf)
 - 原始数据清洗脚本（微博数据）：[01_clean_raw_data.html]({{ base_path }}/files/01_clean_raw_data.html)
 - LDA主题建模代码（微博数据）：[03_LDA.html]({{ base_path }}/files/03_LDA.html)
 - 词语共现网络分析代码（微博数据）：[04_co_occur_network.html]({{ base_path }}/files/04_co_occur_network.html)
