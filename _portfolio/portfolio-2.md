@@ -1,20 +1,20 @@
-
 ---
 title: "课程作业1 全球AI与数据岗位薪资预测模型构建与分析"
-excerpt: "本项目为《数据科学与数据分析》课程小组作业，以全球AI与数据相关岗位为研究对象，基于多维岗位特征数据，构建薪资预测模型并并配套设计可视化展示 UI 界面。"
+excerpt: "基于线性回归模型的全球AI与数据岗位薪资影响因素实证分析
+![项目封面图]({{ base_path }}/images/salary.png){: width="800; display:block; margin:1rem auto;}"
 collection: portfolio
 ---
 
 {% include base_path %}
 
-# {{ page.excerpt }}
-![项目封面图]({{ base_path }}/images/salary.png){: width="800px; display:block; margin:1rem auto;"}
+# 项目介绍
+本项目为《数据科学与数据分析》课程小组作业，以全球AI与数据相关岗位为研究对象，基于多维岗位特征数据，构建薪资预测模型并配套设计可视化展示 UI 界面。
 
-## 项目介绍
-本项目为《数据科学与数据分析》课程小组作业，以全球AI与数据相关岗位为研究对象，基于多维岗位特征数据，构建**薪资预测线性回归模型**。通过数据清洗、特征筛选、模型训练与结果检验，探究岗位类型、工作经验、所在地、行业类别等变量对薪资水平的影响机制，完成模型解释、性能评估与结论总结。
+## 项目汇报PPT在线预览
+<iframe src="{{ base_path }}/files/ai-salary-ppt.pdf" width="100%" height="600" style="border:1px solid #eee;"></iframe>
+> 可下载PPT：[项目汇报PPT]({{ base_path }}/files/ai-salary-ppt.pdf)
 
-## 项目完整报告
-<iframe src="{{ base_path }}/files/全球AI与数据岗位薪资预测模型构建与分析(1).docx" width="100%" height="700px" style="border:1px solid #eee;"></iframe>
+## 完整项目报告在线预览
+<iframe src="{{ base_path }}/files/ai-salary-report.pdf" width="100%" height="700" style="border:1px solid #eee; margin-top:2rem;"></iframe>
+> 可下载文档：[完整项目报告PDF]({{ base_path }}/files/ai-salary-report.pdf)
 
-## 项目汇报PPT
-<iframe src="{{ base_path }}/files/全球AI与数据岗位薪资预测模型项目汇报.pptx" width="100%" height="600px" style="border:1px solid #eee; margin-top:2rem;"></iframe>
